@@ -1,0 +1,168 @@
+body{
+    background-color: #020912 ;
+}
+
+h2{
+font-size: 2rem;
+font-family: 'Alice', serif;
+color: #b5dac9;
+margin-left: 40px;
+}
+.hero{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 30px;
+
+
+}
+
+.hero h1{
+    color: white;
+    font-size:5rem ;
+    margin-bottom: 0;
+    margin-left: 20px;
+    font-family: 'Alice', serif;
+}
+
+.hero h2{
+    color: white;
+    font-size: 1.5rem;
+    margin-top: 15px;
+    margin-bottom: 100px;
+    margin-left: 20px;
+    font-family: 'Quicksand', sans-ser;
+}
+
+.hero button{
+    width: 150px;
+    color:#b5dac9;
+    background-color: #020912;
+    border: solid 2px;
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-bottom: 300px;
+    text-align: justify;
+    padding: 5px;
+    padding-left: 15px;
+    font-family: 'Quicksand', sans-ser
+    
+}
+
+.name{
+    color: #b5dac9 ;
+}
+
+.keyboard{
+    filter: invert(98%) sepia(16%) saturate(874%) hue-rotate(73deg) brightness(94%) contrast(81%);
+}
+
+.about.me p{
+    color: white;
+    font-family: 'Quicksand', sans-ser;
+    margin-left: 20px;
+}
+
+.about.me img{
+    margin-left: 70%;
+    margin-bottom: 100px;
+    border-radius: 5%;
+    width: 30%;
+    max-width: 300px;
+}
+
+.cred {
+display: grid;
+margin-left: 30%;
+margin-bottom: 100px;
+grid-template-columns: .5fr 1fr;
+grid-template-rows: minmax(50px,270px) 1fr;
+color: white;
+font-size: 1rem;
+}
+
+
+.cred h3{
+    color: #b5dac9;
+}
+
+.cred ul{
+    font-family: 'Quicksand', sans-ser;
+}
+
+.projects{
+    margin:auto;
+    margin-bottom: 200px;
+    width: 820px;
+    height: 510px;
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px ;
+    grid-template-rows: 250px 250px;
+    gap: 10px;
+}
+.work 
+
+.projects .tindog{
+grid-column-start: 2;
+grid-column-end: 4;
+}
+
+.projects .movers{
+grid-row-start: 2;
+    
+}
+
+.projects .devs{
+grid-row-start: 2;
+grid-column-start: 3;
+}
+
+.projects img{
+    border-radius: 15px;
+    border: solid 3px;
+}
+.withme{
+    width: 100%; 
+    text-align: center;
+}
+.withme h2{
+    color:#b5dac9;
+  
+
+}
+.withme p{
+    font-family: 'Quicksand', sans-ser;
+    color: white;
+    margin-top: 100px;
+    margin-left: 40px;
+   
+}
+.withme a{
+    font-size: 1.3rem;
+    font-weight: bold;
+    color:#b5dac9;
+    font-family: 'Alice', serif;
+    
+}
+
+.withme img{
+    border-radius: 25%;
+    margin-left: 30px;
+    
+}
+
+@media (max-width: 800px){
+.projects{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: fit-content;
+    justify-content: center;
+    margin-top: 80px;
+}
+.projects img {
+width: 300px;
+}
+
+
+}
