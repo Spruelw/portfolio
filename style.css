@@ -2,6 +2,10 @@ body{
     background-color: #020912 ;
     width:100%;
 }
+body, html{
+    margin:0;
+    padding:0;
+}
 
 h2{
 font-size: 2rem;
