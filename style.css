@@ -8,7 +8,6 @@ body {
 }
 body {
   position: fixed;
-  overflow-y: scroll;
   padding: 0;
   margin: 0;
   width: 100%;
