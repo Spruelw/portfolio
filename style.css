@@ -6,6 +6,13 @@ body{
 body {
     min-width: fit-content;
 }
+body {
+  position: fixed;
+  overflow-y: scroll;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
 
 
 h2{
