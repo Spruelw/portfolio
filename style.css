@@ -161,6 +161,10 @@ grid-column-start: 3;
     justify-content: center;
     margin-top: 80px;
 }
+    .cred{
+        margin-left:10%;
+        
+    }
 .projects img {
 width: 300px;
 }
