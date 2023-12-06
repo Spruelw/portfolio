@@ -2,6 +2,8 @@ body{
     background-color: #020912 ;
     margin:0px;
     padding:0px;
+width:100%;
+
 }
 
 
@@ -70,7 +72,7 @@ margin-left: 40px;
     margin-left: 70%;
     margin-bottom: 100px;
     border-radius: 5%;
-    width: 30%;
+    width: 28%;
     max-width: 300px;
 }
 
@@ -79,7 +81,7 @@ display: grid;
 margin-left: 30%;
 margin-bottom: 100px;
 grid-template-columns: .5fr 1fr;
-grid-template-rows: minmax(50px,270px) 1fr;
+grid-template-rows: auto 1fr;
 color: white;
 font-size: 1rem;
 }
@@ -96,7 +98,6 @@ font-size: 1rem;
 .projects{
     margin:auto;
     margin-bottom: 200px;
-    width: 820px;
     height: 510px;
     display: grid;
     grid-template-columns: 200px 200px 200px 200px ;
@@ -165,6 +166,8 @@ grid-column-start: 3;
 }
     .cred{
         margin-left:10%;
+    }
+
         
     }
 .projects img {
