@@ -4,9 +4,6 @@ body{
     padding:0;
 }
 body {
-    min-width: fit-content;
-}
-body {
   position: fixed;
   padding: 0;
   margin: 0;
