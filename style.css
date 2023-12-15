@@ -82,7 +82,8 @@ display: block;
 }
 
 .about.me img{
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
     margin-bottom: 100px;
     border-radius: 5%;
     width: 28%;
