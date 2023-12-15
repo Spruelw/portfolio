@@ -2,18 +2,9 @@ body{
     background-color: #020912 ;
     margin:0px;
     padding:0px;
-width:100%;
+    width:100%;
     position:absolute;
-
 }
-html, body { 
-margin:0;
-padding:0;
-width:100%;
-height:100%;
-overflow: auto;
-}
-
 
 h2{
 font-size: 2rem;
@@ -21,6 +12,7 @@ font-family: 'Alice', serif;
 color: #b5dac9;
 margin-left: 40px;
 }
+
 .hero{
     display: flex;
     flex-direction: column;
@@ -69,24 +61,24 @@ margin-left: 40px;
 .keyboard{
     filter: invert(98%) sepia(16%) saturate(874%) hue-rotate(73deg) brightness(94%) contrast(81%);
 }
-
-.about{
-width: 100%;
-display: block;
+.portrait{
+    width: 95%;
+    display: flex;
+    gap: 40px;
 }
 
-.about.me p{
+.portrait p{
+    width: 45%;
     color: white;
     font-family: 'Quicksand', sans-ser;
-    margin-left: 20px;
+    margin-left: 10%;
+    text-align: justify;
 }
 
-.about.me img{
-    margin-left: auto;
-    margin-right: auto;
+.portrait img{
     margin-bottom: 100px;
-    border-radius: 5%;
-    width: 28%;
+    border-radius: 30px;
+    width: 26%;
     max-width: 300px;
 }
 
@@ -95,9 +87,10 @@ display: grid;
 margin-left: 30%;
 margin-bottom: 100px;
 grid-template-columns: .5fr 1fr;
-grid-template-rows: auto 1fr;
+grid-template-rows: minmax(50px,200px) 1.5fr;
 color: white;
 font-size: 1rem;
+
 }
 
 
@@ -110,7 +103,9 @@ font-size: 1rem;
 }
 
 .projects{
+    margin:auto;
     margin-bottom: 200px;
+    width: 820px;
     height: 510px;
     display: grid;
     grid-template-columns: 200px 200px 200px 200px ;
@@ -169,6 +164,10 @@ grid-column-start: 3;
 }
 
 @media (max-width: 800px){
+    h2{
+        margin-left: 1rem;
+        }
+
 .projects{
     display: flex;
     flex-wrap: wrap;
@@ -177,15 +176,34 @@ grid-column-start: 3;
     justify-content: center;
     margin-top: 80px;
 }
-    .cred{
-        margin-left:10%;
-    }
 
-        
-    }
+.cred{
+    margin-left: 50px ;
+    font-size: .70rem;
+
+}
 .projects img {
 width: 300px;
 }
-
+.portrait{
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.about.me{
+    width: 90%;
+    
+}
+.about.me p{
+    color: white;
+    font-family: 'Quicksand', sans-ser;
+    margin-left: 40px;
+    width: auto;
+}
+.about.me img{
+    margin-left: 0;
+    border-radius: 70px;
+    
+}
 
 }
