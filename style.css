@@ -4,6 +4,7 @@ html,body{
     padding:0px;
     width:100%;
     position:absolute;
+    overflow-x: hidden;
 }
 
 h2{
