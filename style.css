@@ -147,7 +147,7 @@ grid-column-start: 3;
     font-family: 'Quicksand', sans-ser;
     color: white;
     margin-top: 100px;
-    margin-left: 40px;
+    
    
 }
 .withme a{
@@ -160,7 +160,6 @@ grid-column-start: 3;
 
 .withme img{
     border-radius: 25%;
-    margin-left: 30px;
     
 }
 
