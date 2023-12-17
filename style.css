@@ -166,7 +166,7 @@ grid-column-start: 3;
 
 @media (max-width: 800px){
     h2{
-        margin-left: 1rem;
+        margin-left: 10%;
         }
 
 .projects{
@@ -207,4 +207,3 @@ width: 300px;
     
 }
 
-}
