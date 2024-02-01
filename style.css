@@ -43,7 +43,7 @@ margin-left: 40px;
 .hero button{
     width: 150px;
     color:#C1E0E0;
-    background-color: #485750;
+    background-color: transparent;
     border: solid #cde6e6 2px;
     border-radius: 25px;
     margin-left: 20px;
