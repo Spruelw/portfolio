@@ -10,7 +10,7 @@ html,body{
 h2{
 font-size: 2rem;
 font-family: 'Alice', serif;
-color: #84C1C1;
+color: #C1E0E0;
 margin-left: 40px;
 }
 
@@ -42,9 +42,9 @@ margin-left: 40px;
 
 .hero button{
     width: 150px;
-    color:#84C1C1;
+    color:#C1E0E0;
     background-color: #485750;
-    border: solid 2px #84C1C1;
+    border: solid 2px #C1E0E0;
     border-radius: 25px;
     margin-left: 20px;
     margin-bottom: 300px;
@@ -56,7 +56,7 @@ margin-left: 40px;
 }
 
 .name{
-    color: #84C1C1 ;
+    color: #C1E0E0 ;
 }
 
 .keyboard{
@@ -96,7 +96,7 @@ font-size: 1rem;
 
 
 .cred h3{
-    color: #84C1C1;
+    color: #C1E0E0;
 }
 
 .cred ul{
@@ -139,7 +139,7 @@ grid-column-start: 3;
     text-align: center;
 }
 .withme h2{
-    color:#84C1C1;
+    color:#C1E0E0;
   
 
 }
@@ -153,7 +153,7 @@ grid-column-start: 3;
 .withme a{
     font-size: 1.3rem;
     font-weight: bold;
-    color: #84C1C1;
+    color: #C1E0E0;
     font-family: 'Alice', serif;
     
 }
