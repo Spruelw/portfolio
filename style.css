@@ -43,8 +43,8 @@ margin-left: 40px;
 .hero button{
     width: 150px;
     color:#90aea0;
-    background-color: #020912;
-    border: solid 2px;
+    background-color: #485750;
+    border: solid 2px #90aea0;
     border-radius: 25px;
     margin-left: 20px;
     margin-bottom: 300px;
@@ -132,14 +132,14 @@ grid-column-start: 3;
 
 .projects img{
     border-radius: 15px;
-    border: solid 3px #8db1a1;
+    border: solid 3px #90aea0;
 }
 .withme{
     width: 100%; 
     text-align: center;
 }
 .withme h2{
-    color:##90aea0;
+    color:#90aea0;
   
 
 }
@@ -153,7 +153,7 @@ grid-column-start: 3;
 .withme a{
     font-size: 1.3rem;
     font-weight: bold;
-    color:##90aea0;
+    color:#90aea0;
     font-family: 'Alice', serif;
     
 }
