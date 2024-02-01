@@ -1,5 +1,5 @@
 html,body{
-    background-color: #485750  ;
+    background-color: #5A6C6C  ;
     margin:0px;
     padding:0px;
     width:100%;
@@ -10,7 +10,7 @@ html,body{
 h2{
 font-size: 2rem;
 font-family: 'Alice', serif;
-color: #C1E0E0;
+color: #b5d9d9;;
 margin-left: 40px;
 }
 
@@ -42,9 +42,9 @@ margin-left: 40px;
 
 .hero button{
     width: 150px;
-    color:#C1E0E0;
+    color:#b5d9d9;
     background-color: transparent;
-    border: solid #cde6e6 2px;
+    border: solid #b5d9d9 2px;
     border-radius: 25px;
     margin-left: 20px;
     margin-bottom: 300px;
@@ -56,7 +56,7 @@ margin-left: 40px;
 }
 
 .name{
-    color: #C1E0E0 ;
+    color: #b5d9d9 ;
 }
 
 .keyboard{
@@ -96,7 +96,7 @@ font-size: 1rem;
 
 
 .cred h3{
-    color: #C1E0E0;
+    color: #b5d9d9;
 }
 
 .cred ul{
@@ -132,7 +132,7 @@ grid-column-start: 3;
 
 .projects img{
     border-radius: 15px;
-    border: solid 3px #cde6e6;
+    border: solid 3px #b5d9d9;
 }
 .withme{
     width: 100%; 
@@ -153,7 +153,7 @@ grid-column-start: 3;
 .withme a{
     font-size: 1.3rem;
     font-weight: bold;
-    color: #C1E0E0;
+    color: #b5d9d9;
     font-family: 'Alice', serif;
     
 }
