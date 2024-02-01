@@ -44,7 +44,7 @@ margin-left: 40px;
     width: 150px;
     color:#C1E0E0;
     background-color: #485750;
-    border: solid #C1E0E0 2px;
+    border: solid #cde6e6 2px;
     border-radius: 25px;
     margin-left: 20px;
     margin-bottom: 300px;
@@ -132,7 +132,7 @@ grid-column-start: 3;
 
 .projects img{
     border-radius: 15px;
-    border: solid 3px #84C1C1;
+    border: solid 3px #cde6e6;
 }
 .withme{
     width: 100%; 
