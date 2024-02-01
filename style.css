@@ -10,7 +10,7 @@ html,body{
 h2{
 font-size: 2rem;
 font-family: 'Alice', serif;
-color: #90aea0;
+color: #84c1c1;
 margin-left: 40px;
 }
 
@@ -44,7 +44,7 @@ margin-left: 40px;
     width: 150px;
     color:#90aea0;
     background-color: #485750;
-    border: solid 2px #90aea0;
+    border: solid 2px #84c1c1;
     border-radius: 25px;
     margin-left: 20px;
     margin-bottom: 300px;
@@ -56,7 +56,7 @@ margin-left: 40px;
 }
 
 .name{
-    color: #90aea0 ;
+    color: #84c1c1 ;
 }
 
 .keyboard{
@@ -132,14 +132,14 @@ grid-column-start: 3;
 
 .projects img{
     border-radius: 15px;
-    border: solid 3px #90aea0;
+    border: solid 3px #84c1c1;
 }
 .withme{
     width: 100%; 
     text-align: center;
 }
 .withme h2{
-    color:#90aea0;
+    color:#84c1c1;
   
 
 }
