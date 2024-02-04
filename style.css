@@ -42,7 +42,7 @@ margin-left: 40px;
 
 .hero button{
     width: 150px;
-    color: white;
+    color: black;
     background-color: #82bfbf;
     border: solid #82bfbf 2px;
     border-radius: 25px;
@@ -140,7 +140,7 @@ grid-column-start: 3;
 }
 .withme h2{
     color:#C1E0E0;
-  
+    text-align: center;
 
 }
 .withme p{
@@ -168,48 +168,49 @@ grid-column-start: 3;
         margin-left: 10%;
         }
 
-.projects{
-    display: flex;
-    flex-wrap: wrap;
-    width: 100%;
-    height: fit-content;
-    justify-content: center;
-    margin-top: 80px;
-}
+    .projects{
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+        height: fit-content;
+        justify-content: center;
+        margin-top: 80px;
+    }
 
-.cred{
-    margin-left: 50px ;
-    font-size: .70rem;
-
-}
-.projects img {
-width: 300px;
-}
-.portrait{
-    display: block;
-    width: 100%;
-    text-align: center;
-}
-.about.me{
-    width: 90%;
+    .cred{
+        margin-left: 50px ;
+        font-size: .70rem;
+    }
     
-}
-.about.me p{
-    color: white;
-    font-family: 'Quicksand', sans-ser;
-    margin-left: 40px;
-    width: auto;
-}
-.about.me img{
-    margin-left: 0;
-    border-radius: 70px;
-    
-}
+    .projects img {
+    width: 300px;
+    }
+    .portrait{
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    .about.me{
+        width: 90%;
+        
+    }
+    .about.me p{
+        color: white;
+        font-family: 'Quicksand', sans-ser;
+        margin-left: 40px;
+        width: auto;
+    }
+    .about.me img{
+        margin-left: 0;
+        border-radius: 70px;
+        
+    }
 
-.withme h2 {
-margin-left: 0px;
-}
+    .withme h2 {
+    margin-left: 0px;
+    }
 
+}
 
 .slide-in{
 animation: slideIn 3s ease;
