@@ -210,3 +210,14 @@ width: 300px;
 margin-left: 0px;
 }
 
+
+.slide-in{
+animation: slideIn 3s ease;
+}
+
+@keyframes slideIn{
+from{margin-left: -100%;}
+to{margin-left: 0%}
+
+
+}
