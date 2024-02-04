@@ -1,5 +1,5 @@
 html,body{
-    background-color: #b5c7d9    ;
+    background-color: #485656     ;
     margin:0px;
     padding:0px;
     width:100%;
@@ -96,12 +96,12 @@ font-size: 1rem;
 
 
 .cred h3{
-    color: #b5b5d9;
+    color: #e1efef;
 }
 
 .cred ul{
     font-family: 'Quicksand', sans-ser;
-    color: #b5b5d9;
+    color: #e1efef;
 }
 
 .projects{
