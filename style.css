@@ -94,7 +94,7 @@ width: 100vw;
 padding: 10px;
 margin-bottom: 100px;
 grid-template-columns: .3fr 1fr;
-grid-template-rows: minmax(50px,200px) 1.5fr;
+grid-template-rows: minmax(50px,200px) 1.8fr;
 color: #e1efef;
 font-size: 1rem;
 
