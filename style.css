@@ -87,13 +87,17 @@ margin-left: 40px;
 
 .cred {
 display: grid;
-margin-left: 30%;
+margin-left: 10%;
 margin-bottom: 100px;
 grid-template-columns: .5fr 1fr;
 grid-template-rows: minmax(50px,200px) 1.5fr;
 color: #e1efef;
 font-size: 1rem;
 
+}
+
+.cred h2{
+    margin-left: 70%;
 }
 
 
