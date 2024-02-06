@@ -88,11 +88,10 @@ margin-left: 40px;
 .cred {
 background-color: #6c8282;
 display: grid;
-width: 85vw;
+width: 90vw;
 padding: 10px;
 border: 10px solid black;
 border-radius: 15px;
-margin-left: 10%;
 margin-bottom: 100px;
 grid-template-columns: .3fr 1fr;
 grid-template-rows: minmax(50px,200px) 1.5fr;
