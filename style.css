@@ -133,7 +133,6 @@ font-size: 1rem;
     grid-template-rows: 250px 250px;
     gap: 10px;
 }
-.work 
 
 .projects .tindog{
 grid-column-start: 3;
