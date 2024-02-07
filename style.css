@@ -24,6 +24,11 @@ margin-left: 40px;
 
 }
 
+.hero.icon {
+    width: 100vw;
+    text-align: center;
+}
+
 .hero h1{
     color: white;
     font-size:5rem ;
