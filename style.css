@@ -25,8 +25,7 @@ margin-left: 40px;
 }
 
 .hero.icon {
-    width: 100vw;
-    text-align: center;
+    margin: auto;
 }
 
 .hero h1{
