@@ -68,7 +68,6 @@ margin-left: 40px;
 .keyboard{
     filter: invert(98%) sepia(16%) saturate(874%) hue-rotate(73deg) brightness(94%) contrast(81%);
 
-text-align: center;
 }
 .portrait{
     width: 95%;
