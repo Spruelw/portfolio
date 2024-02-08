@@ -152,7 +152,7 @@ grid-column-start: 3;
     border-radius: 15px;
 }
 .withme{
-    width: 100%; 
+    width: 100vw; 
     text-align: center;
 }
 .withme h2{
