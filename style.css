@@ -9,7 +9,7 @@ html,body{
 
 h2{
 font-size: 2rem;
-font-family: 'Alice', serif;
+font-family: 'Quicksand', sans-ser;
 color: #b5d9d9;
 margin-left: 40px;
 }
@@ -30,7 +30,8 @@ margin-left: 40px;
     font-size:5rem ;
     margin-bottom: 0;
     margin-left: 20px;
-    font-family: 'Alice', serif;
+    font-family: 'Quicksand', sans-ser;
+
 }
 
 .hero h2{
@@ -171,7 +172,8 @@ grid-column-start: 3;
     font-size: 1.3rem;
     font-weight: bold;
     color: #90adad;
-    font-family: 'Alice', serif;
+    font-family: 'Quicksand', sans-ser;
+
     
 }
 
