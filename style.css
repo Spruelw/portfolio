@@ -243,12 +243,12 @@ animation: slideIn 2s ease;
 }
 
 @keyframes slideIn{
-  0%   {top: -400px;}
+  0%   {top: -400px; color:white;}
 
   80%  {top: -20px;}
  50%, 85%  {top: 0px;}
   90%  {top: -10px}
-  100% {top: 0px;}
+  100% {top: 0px; color: #b5d9d9 }
 
 
 }
