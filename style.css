@@ -243,9 +243,10 @@ animation: slideIn 3s ease;
 
 @keyframes slideIn{
   0%   {top: 0px;}
-  25%  {top: 200px;}
-  75%  {top: 50px}
-  100% {top: 100px;}
+  25%  {top: -200px;}
+  50%  {top: 0px;}
+  75%  {top: -50px}
+  100% {top: 0px;}
 
 
 }
