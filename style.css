@@ -6,8 +6,9 @@ html,body{
     width:100%;
     position:absolute;
     overflow-x: hidden;
-   font-family: "Abel", sans-serif;
-  font-weight: 400;
+   font-family: "Albert Sans", sans-serif;
+  
+  font-weight: 300;
   font-style: normal;
 }
 
