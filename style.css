@@ -44,8 +44,6 @@ font-weight:300;
     font-size: 1.5rem;
     margin-top: 15px;
     margin-bottom: 50px;
-    margin-left: 20px;
-     font-weight:300;
     
 }
 
@@ -208,7 +206,7 @@ grid-column-start: 3;
     }
 
     .credentials h2{
-        margin-left: 10px;
+        margin-left: 10%;
     } 
 
     .cred{
