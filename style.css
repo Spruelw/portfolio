@@ -248,7 +248,7 @@ animation: slideIn 2s ease;
   80%  {top: -20px;}
  50%, 85%  {top: 0px;}
   90%  {top: -10px}
-  100% {top: 0px; color: #b5d9d9 }
+  100% {top: 0px; color: #b5d9d9;}
 
 
 }
