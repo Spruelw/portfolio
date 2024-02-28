@@ -1,3 +1,4 @@
+
 html,body{
     background-color: #364141;
     margin:0px;
@@ -238,13 +239,14 @@ grid-column-start: 3;
 }
 
 .slide-in{
-animation: slideIn 3s ease;
+animation: slideIn 2s ease;
 }
 
 @keyframes slideIn{
-  0%   {top: 0px;}
+  0%   {top: -400px;}
+
   25%  {top: -200px;}
-  50%  {top: 0px;}
+ 15%, 50%  {top: 0px;}
   75%  {top: -50px}
   100% {top: 0px;}
 
