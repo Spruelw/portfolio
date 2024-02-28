@@ -245,9 +245,9 @@ animation: slideIn 2s ease;
 @keyframes slideIn{
   0%   {top: -400px;}
 
-  25%  {top: -70px;}
- 15%, 50%  {top: 0px;}
-  75%  {top: -50px}
+  80%  {top: -20px;}
+ 50%, 85%  {top: 0px;}
+  90%  {top: -10px}
   100% {top: 0px;}
 
 
