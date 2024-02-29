@@ -65,7 +65,7 @@ font-weight:300;
 
 .name{
     color: #b5d9d9 ;
-    font-size: 5rem;
+    font-size: 3rem;
 position:relative;
 }
 
@@ -215,7 +215,7 @@ grid-column-start: 3;
     }
     
     .projects img {
-    width: 200px;
+    width: 300px;
     }
     .portrait{
         display: block;
