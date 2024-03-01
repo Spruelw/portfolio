@@ -158,7 +158,7 @@ grid-column-start: 3;
 
 .projects img{
     border-radius: 15px;
-    object-fit: cover;
+    object-fit: contain;
 }
 .withme{
     width: 100vw; 
