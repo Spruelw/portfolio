@@ -49,8 +49,8 @@ font-weight:300;
 .hero button{
     width: 110px;
     color: #e1efef;
-    background-color: transparent;
-    border: solid #b5d9d9 1px;
+    background-color: #4d5d5d;
+    border: solid #4d5d5d 1px;
     border-radius: 10px;
     margin-left: 20px;
     margin-bottom: 300px;
