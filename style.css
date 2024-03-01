@@ -50,10 +50,10 @@ font-weight:300;
 }
 
 .hero button{
-    width: 160px;
+    width: fit-content;
     color: #e1efef;
     background-color: transparent;
-    border: solid #b5d9d9 2px;
+    border: solid #b5d9d9 1px;
     border-radius: 10px;
     margin-left: 20px;
     margin-bottom: 300px;
@@ -188,7 +188,7 @@ grid-column-start: 3;
 
 @media (max-width: 800px){
     .hero{
-        height:40dvh;
+        height:50dvh;
 }
    
 
