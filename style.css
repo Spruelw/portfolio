@@ -50,7 +50,7 @@ font-weight:300;
 }
 
 .hero button{
-    width: fit-content;
+    width: 110px;
     color: #e1efef;
     background-color: transparent;
     border: solid #b5d9d9 1px;
