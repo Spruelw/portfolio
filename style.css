@@ -192,6 +192,7 @@ grid-column-start: 3;
 @media (max-width: 800px){
     .hero{
         height:55dvh;
+     width: 98vw;
 }
    
 
