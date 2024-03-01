@@ -187,11 +187,9 @@ grid-column-start: 3;
 
 @media (max-width: 800px){
     .hero{
-        height:100dvh;
+        height:60dvh;
 }
-    .keyboard{
-    width: 50px;
-    }
+   
 
     h2{
         margin-left: 10%;
