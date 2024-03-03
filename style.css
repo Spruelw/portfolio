@@ -1,4 +1,4 @@
-* {-webkit-font-smoothing: antialiased;}
+ * {-webkit-font-smoothing: antialiased;}
 
 html,body{
     background-color: #364141;
@@ -158,8 +158,7 @@ grid-column-start: 3;
 
 .projects img{
     border-radius: 15px;
-    object-fit: fill;
-    box-shadow: 3px;
+    box-shadow: black 3px 4px 5px ;
 }
 .withme{
     width: 100vw; 
