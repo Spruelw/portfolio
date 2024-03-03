@@ -71,12 +71,10 @@ margin-bottom:0px;
 position:relative;
 }
 
-.keyboard{
-    filter: invert(98%) sepia(16%) saturate(874%) hue-rotate(73deg) brightness(94%) contrast(81%);
-
-width:20px;
-
+.aboutMe{
+animate: fadeIn 3s ease 5s forwards;
 }
+
 .portrait{
     width: 95%;
     display: flex;
@@ -248,6 +246,11 @@ grid-column-start: 3;
 animation: slideIn 2s ease;
 }
 
+
+@@keyframes fadeIn{
+from{opacity:0;}
+to {opacity:1 ;}
+}
 @keyframes slideIn{
   0%   {top: -400px; color:white;}
 
