@@ -75,6 +75,7 @@ position:relative;
 
 opacity:0;
 animation: fadeIn 3s ease 3s forwards;
+margin-bottom:30px;
 }
 
 .portrait{
@@ -98,6 +99,7 @@ animation: fadeIn 3s ease 3s forwards;
 }
 .credentials {
         background-color: #485656 ;
+ margin-bottom:30px;
 
 }
 
@@ -130,7 +132,7 @@ font-size: 1rem;
 
 .projects{
     margin:auto;
-    margin-bottom: 200px;
+    margin-bottom: 50px;
     width: 820px;
     height: 510px;
     display: grid;
@@ -157,6 +159,7 @@ grid-column-start: 3;
 .projects img{
     border-radius: 15px;
     box-shadow: black 3px 4px 5px ;
+width:300px;
 }
 .withme{
     width: 100vw; 
@@ -215,7 +218,7 @@ grid-column-start: 3;
     }
     
     .projects img {
-    width: 80%;
+   
     }
     .portrait{
         display: block;
