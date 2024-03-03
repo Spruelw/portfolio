@@ -247,7 +247,7 @@ animation: slideIn 2s ease;
 }
 
 
-@@keyframes fadeIn{
+@keyframes fadeIn{
 from{opacity:0;}
 to {opacity:1 ;}
 }
