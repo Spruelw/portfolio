@@ -240,7 +240,7 @@ grid-column-start: 3;
 
 }
 .about.me{
-opacity:0;
+display:none;
 animation: fadeIn 3s ease 5s forwards;
 }
 
