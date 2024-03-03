@@ -71,10 +71,7 @@ margin-bottom:0px;
 position:relative;
 }
 
-.about.me{
-opacity:0;
-animation: fadeIn 3s ease 5s forwards;
-}
+
 
 .portrait{
     width: 95%;
@@ -241,6 +238,10 @@ grid-column-start: 3;
     }
 
 
+}
+.about.me{
+opacity:0;
+animation: fadeIn 3s ease 5s forwards;
 }
 
 .slide-in{
