@@ -22,8 +22,8 @@ font-weight:300;
     display: flex;
     flex-direction: column;
     width: 90dvw;
-height:100vh;
-     margin-top:20px;
+height:90vh;
+     margin-top:10vh;
 
    
 
@@ -75,7 +75,7 @@ position:relative;
 
 opacity:0;
 animation: fadeIn 3s ease 3s forwards;
-margin-bottom:30px;
+margin-bottom:60px;
 }
 
 .portrait{
@@ -99,7 +99,7 @@ margin-bottom:30px;
 }
 .credentials {
         background-color: #485656 ;
- margin-bottom:30px;
+ margin-bottom:60px;
 
 }
 
@@ -132,7 +132,7 @@ font-size: 1rem;
 
 .projects{
     margin:auto;
-    margin-bottom: 50px;
+    margin-bottom: 80px;
     width: 820px;
     height: 510px;
     display: grid;
@@ -218,7 +218,7 @@ width:300px;
     }
     
     .projects img {
-   
+   width:200px;
     }
     .portrait{
         display: block;
