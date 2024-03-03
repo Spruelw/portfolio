@@ -241,7 +241,7 @@ grid-column-start: 3;
 }
 .about.me{
 
-background-color:red;
+display:none;
 animation: fadeIn 3s ease 5s forwards;
 }
 
