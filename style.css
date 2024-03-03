@@ -99,7 +99,7 @@ margin-bottom:60px;
 }
 .credentials {
         background-color: #485656 ;
- margin-bottom:60px;
+ margin-bottom:100px;
 
 }
 
@@ -132,7 +132,7 @@ font-size: 1rem;
 
 .projects{
     margin:auto;
-    margin-bottom: 80px;
+    margin-bottom: 100px;
     width: 820px;
     height: 510px;
     display: grid;
@@ -219,6 +219,7 @@ width:300px;
     
     .projects img {
    width:200px;
+object-fit:cover;
     }
     .portrait{
         display: block;
