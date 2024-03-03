@@ -72,6 +72,7 @@ position:relative;
 }
 
 .about.me{
+opacity:0;
 animation: fadeIn 3s ease 5s forwards;
 }
 
