@@ -219,7 +219,7 @@ width:300px;
     
     .projects img {
    width:200px;
-object-fit:contain;
+object-fit:fill;
     }
     .portrait{
         display: block;
