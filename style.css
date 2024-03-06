@@ -191,7 +191,8 @@ width:300px;
 
 @media (max-width: 800px){
     .hero{
-        height:55dvh;
+        height:50dvh;
+        margin-top: 5dvh;
      width: 98vw;
 }
    
