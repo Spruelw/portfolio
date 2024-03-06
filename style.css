@@ -99,7 +99,9 @@ margin-bottom:60px;
 }
 .credentials {
         background-color: #485656 ;
-margin:30px;
+width 100%
+height:fit-content;
+padding: 30px;
  margin-bottom:100px;
 
 }
