@@ -222,8 +222,8 @@ width:300px;
     }
     
     .projects img {
-   width:48vw;
-object-fit:cover;
+   width:46vw;
+object-fit:fill;
     }
     .portrait{
         display: block;
