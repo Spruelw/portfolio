@@ -204,9 +204,12 @@ font-size:1.8rem
 
 
     h2{
-    font-size:1.2rem;
+    font-size:1.4rem;
         margin-left: 10%;
         }
+    .hero h2{ 
+     font-size:1.2rem;
+}
 
     .projects{
         display: flex;
