@@ -116,6 +116,7 @@ grid-template-rows: auto auto;
 color: #e1efef;
 font-size: 1rem;
 margin-top:40px;
+margin-bottom:80px;
 
 }
 
@@ -181,7 +182,7 @@ width:300px;
    
 }
 .withme a{
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     font-weight: bold;
     color: #90adad;
     
@@ -227,6 +228,7 @@ font-size:1.6rem;
 
     .cred{
         font-size: .8rem;
+
     }
     
     .projects img {
