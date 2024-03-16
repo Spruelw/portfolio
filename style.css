@@ -109,8 +109,8 @@ margin-bottom:120px;
 
 .cred {
 display: grid;
-width: 90vw;
-margin-left:10vw;
+width: 90%;
+margin-left:10%;
 padding: 10px;
 grid-template-columns: .3fr auto;
 grid-template-rows: auto auto;
