@@ -167,9 +167,7 @@ grid-column-start: 3;
     box-shadow: black 3px 4px 5px ;
 width:300px;
 }
-.email-container{width: fit-content;
-border: 1px solid white;
-text-align: center;}
+
 
 
 .withme{
@@ -177,13 +175,17 @@ text-align: center;}
     text-align: center;
     margin-bottom:30px;
 }
+.email-container{width: fit-content;
+margin: auto;
+border: 1px solid white;
+text-align: center;}
+
 .withme h2{
     color:#b5d9d9;
     margin-left: 0px;
 
 }
 .withme p{
-text-align: center;
 white-space: nowrap;
     border-right: 2px solid white;
 overflow: hidden;
