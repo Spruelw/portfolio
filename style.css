@@ -170,10 +170,9 @@ width:300px;
 .email-container{
  width: fit-content;
 display: inline-block;
-border :1px solid red;
 border-right: 2px solid white;
 overflow: hidden;
-animation: typewriter 15s ease infinite;, border-blink 1s ease infinite;
+animation: typewriter 15s ease infinite;, border-blink .8s ease infinite;
 } 
 
 .withme{
