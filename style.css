@@ -168,7 +168,7 @@ grid-column-start: 3;
 width:300px;
 }
 .email-container{
- width: 250px;
+ width: fit-content;
 border :1px solid red;
 border-right: 2px solid white;
 overflow: hidden;
@@ -292,9 +292,9 @@ to {opacity: 1;}
 }
 
 @keyframes typewriter{
-0%, 90%, 100% { width: 0px;}
+0%, 90%, 100% { transform: scaleX(0);}
 
-30%, 60% { width: 100px;}
+30%, 60% { transform: scaleX(1);}
 
 
 }
