@@ -169,7 +169,7 @@ width:300px;
 }
 .email-container{
  width: 250px;
-border :1px solid red;
+border :1px solid blue;
 border-right: 2px solid white;
 overflow: hidden;
 animation: typewriter 15s ease infinite;
