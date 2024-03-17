@@ -181,9 +181,7 @@ width:300px;
 
 }
 .withme p{
-width:fit-content;
-margin:auto;
-display:block;
+white-space: nowrap;
     border-right: 2px solid white;
 overflow: hidden;
 animation: typewriter 15s ease infinite, border-blink 1s ease infinite;
