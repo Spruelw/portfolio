@@ -169,7 +169,7 @@ width:300px;
 }
 .email-container{
  width: 250px;
-border :1px solid blue;
+border :1px solid red;
 border-right: 2px solid white;
 overflow: hidden;
 animation: typewriter 15s ease infinite;
@@ -292,9 +292,9 @@ to {opacity: 1;}
 }
 
 @keyframes typewriter{
-0%, 90%, 100% {width: 0%;}
+0%, 90%, 100% { width: 0px;}
 
-30%, 60% {width: 100%;}
+30%, 60% { width: 100px;}
 
 
 }
