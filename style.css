@@ -169,7 +169,6 @@ width:300px;
 }
 .email-container{
  width: fit-content;
-display: inline-block;
 border-right: 2px solid white;
 overflow: hidden;
 animation: typewriter 15s ease infinite, border-blink .8s ease infinite;
@@ -188,7 +187,6 @@ animation: typewriter 15s ease infinite, border-blink .8s ease infinite;
 .withme p{
     
     color: white;
-display: inline-block;
     
    
 }
@@ -293,7 +291,7 @@ to {opacity: 1;}
 @keyframes typewriter{
 0%, 90%, 100% { width: 0%;}
 
-30%, 60% { width: fit-content;}
+30%, 60% { width: 100%;}
 
 
 }
