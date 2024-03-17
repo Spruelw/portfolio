@@ -168,10 +168,9 @@ grid-column-start: 3;
 width:300px;
 }
 .email-container{
- width: fit-content;
 border-right: 2px solid white;
 overflow: hidden;
-animation: typewriter 15s ease infinite, border-blink .8s ease infinite;
+animation: typewriter 15s ease infinite, border-blink 1s ease infinite;
 } 
 
 .withme{
