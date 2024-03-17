@@ -188,6 +188,7 @@ animation: border-blink 1s ease infinite;
 .withme p{
     
     color: white;
+display: inline-block;
     
    
 }
