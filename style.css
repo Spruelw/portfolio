@@ -292,7 +292,7 @@ to {opacity: 1;}
 }
 
 @keyframes typewriter{
-0%, 90%, 100% {width: 0px;}
+0%, 90%, 100% {width: 0%;}
 
 30%, 60%{width: 100%;}
 
