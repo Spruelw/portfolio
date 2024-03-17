@@ -168,7 +168,7 @@ grid-column-start: 3;
 width:300px;
 }
 .email-container{
- width: fit-content;
+ width: 250px;
 border :1px solid red;
 border-right: 2px solid white;
 overflow: hidden;
