@@ -167,6 +167,14 @@ grid-column-start: 3;
     box-shadow: black 3px 4px 5px ;
 width:300px;
 }
+.email-container{
+ width: fit-content;
+border-right: 2px solid white;
+overflow: hidden;
+animate: typewriter 15s ease infinite;
+animate: border-blink 1s ease infinite;
+} 
+
 .withme{
     width: 100vw; 
     text-align: center;
@@ -190,6 +198,8 @@ width:300px;
     
     
 }
+
+
 
 
 @media (max-width: 800px){
@@ -277,4 +287,15 @@ to {opacity: 1;}
   100% {top: 0px; color: #b5d9d9;}
 
 
+}
+
+@keyframes typewriter{
+0%,90%,100%{width: 0px;}
+
+30%, 60%{width: fit-content;}
+
+
+}
+ @keyframes border-blink{
+to {border-right: transparent;}
 }
