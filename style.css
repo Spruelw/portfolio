@@ -171,8 +171,8 @@ width:300px;
  width: fit-content;
 border-right: 2px solid white;
 overflow: hidden;
-animate: typewriter 15s ease infinite;
-animate: border-blink 1s ease infinite;
+animation: typewriter 15s ease infinite;
+animation: border-blink 1s ease infinite;
 } 
 
 .withme{
