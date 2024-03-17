@@ -181,6 +181,7 @@ width:300px;
 
 }
 .withme p{
+margin: auto;
 white-space: nowrap;
     border-right: 2px solid white;
 overflow: hidden;
