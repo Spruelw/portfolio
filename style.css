@@ -167,7 +167,9 @@ grid-column-start: 3;
     box-shadow: black 3px 4px 5px ;
 width:300px;
 }
-.email-container{width: fit-content;}
+.email-container{
+border: 1px solid white;
+text-align: center;}
 
 
 .withme{
