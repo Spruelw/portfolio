@@ -242,7 +242,7 @@ font-size:1.5rem;
     }
     
     .projects img {
-   width: 30%;
+   width: 30vw;
 object-fit:cover;
     }
     .portrait{
