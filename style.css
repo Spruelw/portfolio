@@ -243,7 +243,7 @@ font-size:1.5rem;
     
     .projects img {
    width: 45vw;
-object-fit:contain;
+object-fit:fill;
     }
     .portrait{
         display: block;
