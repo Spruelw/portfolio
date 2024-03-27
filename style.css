@@ -225,8 +225,7 @@ font-size:1.5rem;
         display: flex;
         flex-wrap: wrap;
         width: 100%;
-        height: fit-content;
-        justify-content: center;
+        height: fit-content
         margin-top: 80px;
     }
 
