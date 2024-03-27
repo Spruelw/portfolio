@@ -242,8 +242,8 @@ font-size:1.5rem;
     
     .projects img {
    max-width: 45vw;
-object-fit:contain;
-height: fit-content;
+object-fit:cover;
+height: auto;
     }
     .portrait{
         display: block;
