@@ -227,6 +227,7 @@ font-size:1.5rem;
         width: 100%;
         height: fit-content
         margin-top: 80px;
+        justify-content: center;
     }
 
     .credentials h2{
