@@ -223,11 +223,10 @@ font-size:1.5rem;
 
     .projects{
         display: flex;
-        flex-wrap: wrap;
         width: 100%;
         height: fit-content
         margin-top: 80px;
-        justify-content: center;
+       
     }
 
     .credentials h2{
@@ -242,7 +241,7 @@ font-size:1.5rem;
     }
     
     .projects img {
-   width: 100%;
+   width: 100vw;
 object-fit:cover;
     }
     .portrait{
