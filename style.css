@@ -242,6 +242,7 @@ font-size:1.5rem;
   width:100vw;
 object-fit:cover;
  margin-bottom: 30px
+ border-radius : 0px;
     }
     .portrait{
         display: block;
