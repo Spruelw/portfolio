@@ -179,8 +179,7 @@ width: 100%
  position: absolute;
 z-index: 1;
 width:fit-content;
-right: 5%;
-bottom: 20px;
+
 text-align:center;
 padding:5px;
 background-color: #b5d9d9;
@@ -275,6 +274,12 @@ object-fit:fill;
  margin-bottom: 20px;
  border-radius : 0px;
     }
+
+
+.tindog::after, .movers::after, .devs::after{
+right: 5%;
+bottom: 20px;
+}
     .portrait{
         display: block;
         width: 100%;
