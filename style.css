@@ -240,7 +240,7 @@ font-size:1.5rem;
     }
     
     .projects img {
- margin: auto;
+ margin-left: 5%;
   width:90%;
 object-fit:fill;
  margin-bottom: 20px;
