@@ -222,7 +222,10 @@ font-size:1.5rem;
 }
 
     .projects{
-        display: block;
+        display: flex;
+flex-direction: column;
+        justify-content: center;
+        width: 100%;
         margin-top: 80px;
        height: fit-content;
     }
@@ -239,9 +242,9 @@ font-size:1.5rem;
     }
     
     .projects img {
-  width:100vw;
+  width:90%;
 object-fit:fill;
- margin-bottom: 30px;
+ margin-bottom: 20px;
  border-radius : 0px;
     }
     .portrait{
