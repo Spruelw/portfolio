@@ -171,6 +171,8 @@ width:;
 .tindog, .movers, .devs { 
 position:relative;
 z-index:0 ; 
+width: 90%
+
 }
 
 .tindog::after, .movers::after, .devs::after{
