@@ -170,9 +170,8 @@ grid-column-start: 3;
 
 .tindog, .movers, .devs {
 position:relative;
-z-index:2; 
+z-index:0; 
 width:fit-content;
-background-color:red;
 }
 
 .tindog::after, .movers::after, .devs::after{
@@ -275,6 +274,12 @@ object-fit:fill;
  margin-bottom: 20px;
  border-radius : 0px;
     }
+
+.tindog, .movers, .devs {
+
+width:100%;
+
+}
 
 
 .tindog::after, .movers::after, .devs::after{
