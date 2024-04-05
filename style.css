@@ -183,7 +183,7 @@ z-index: 1;
 width:fit-content;
 padding:5px;
 right: 2%;
-bottom: 98%;
+bottom: 90%;
 text-align:center;
 background-color: #b5d9d9;
 color: #00171e;
@@ -256,8 +256,8 @@ font-size:1.5rem;
     .projects{
         display:flex ; 
         flex-direction: column;
-        justify-items: center;
-        width: 100%;
+        justify-content: center;
+        width: 80%;
         margin-top: 80px;
        height: fit-content;
     }
@@ -282,7 +282,7 @@ object-fit:fill;
 
 .tindog, .movers, .devs {
 
-width:85%;
+width:100%;
 margin-bottom: 20px;
 
 }
