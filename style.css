@@ -179,11 +179,12 @@ border-radius: 2%;
 
 .tindog::after, .movers::after, .devs::after{
  position: absolute;
-z-index: 1;
+z-index: -1;
 width:fit-content;
 padding:5px;
+paddiing-bottom: 10px;
 right: 2%;
-bottom: 98%;
+bottom: 97%;
 text-align:center;
 background-color: #b5d9d9;
 color: #00171e;
