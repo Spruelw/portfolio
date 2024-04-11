@@ -166,6 +166,7 @@ grid-column-start: 3;
 
 .projects img{
     border-radius: 10px;
+    opacity: .6;
 }
 
 .tindog, .movers, .devs {
