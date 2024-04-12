@@ -293,17 +293,19 @@ margin-bottom: 40px;
 
     .portrait{
         display: block;
-        width: 100%;
+        width: 80%;
         text-align: center;
+        margin:auto;
     }
     .about.me{
-        width: 90%;
+        width: 100%;
       margin:auto;
         
     }
     .about.me p{
         color: white;
         width: auto;
+        margin-left: 0;
       
     }
     .about.me img{
