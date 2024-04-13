@@ -184,7 +184,7 @@ border-radius: 2%;
 z-index: 1;
 width:100%;
 padding-top:5px;
-paddiing-bottom: 5px;
+paddiing-bottom: 10px;
 right: 0%;
 top: 97%;
 text-align:center;
@@ -271,7 +271,7 @@ font-size:1.5rem;
     } 
 
     .cred{
-     width: 80%;
+     width: 90%;
         font-size: .8rem;
      margin: auto;
 
@@ -293,7 +293,7 @@ margin-bottom: 40px;
 
     .portrait{
         display: block;
-        width: 80%;
+        width: 90%;
         text-align: center;
         margin:auto;
     }
