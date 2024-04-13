@@ -21,7 +21,7 @@ font-weight:500;
 .hero{
     display: flex;
     flex-direction: column;
-    width: 90dvw;
+    width: 45%;
 height:90vh;
      margin-top:30px;
 
@@ -52,7 +52,7 @@ margin-bottom:0px;
 }
 
 .hero button{
-    position:absolute;
+    position: absolute;
     width: 110px;
     color: black;
     font-weight:500;
@@ -254,8 +254,9 @@ animation: typewriter 15s ease infinite, border-blink 1s ease infinite;
 @media (max-width: 800px){
     .hero {
         height:45vh;
-     width: 98vw;
+     width: 100%;
 text-align:center;
+justify-items: center;
 }
    h1{
 font-size:1.5rem;
