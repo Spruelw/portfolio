@@ -252,7 +252,7 @@ animation: typewriter 15s ease infinite, border-blink 1s ease infinite;
 
 
 @media (max-width: 800px){
-    .hero{
+    .hero {
         height:45vh;
      width: 98vw;
 text-align:center;
