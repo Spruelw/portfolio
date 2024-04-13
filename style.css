@@ -74,7 +74,7 @@ content: "";
 width: 102%;
 height: 102%;
 top: -1%;
-left:-1%;
+left: -1%;
 background-color: #b5d9d9;
 filter: blur(8px);
 z-index: 2;
