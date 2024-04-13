@@ -52,6 +52,7 @@ margin-bottom:0px;
 }
 
 .hero button{
+    position:absolute;
     width: 110px;
     color: black;
     font-weight:600;
@@ -65,6 +66,18 @@ margin-bottom:0px;
    
     
     
+}
+.hero .button::after{
+position:relative;
+content:"";
+width: 102%;
+height: 102%;
+top: -1%;
+left:-1%;
+background-color: #b5d9d9;
+filter: blur(8px);
+
+
 }
 
 .name{
