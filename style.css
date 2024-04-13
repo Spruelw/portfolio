@@ -68,9 +68,9 @@ margin-bottom:0px;
     
     
 }
-.hero button::after{
-position:relative;
-content:"";
+.hero button::after {
+position: relative;
+content: "";
 width: 102%;
 height: 102%;
 top: -1%;
@@ -268,6 +268,11 @@ font-size:1.5rem;
         }
     .hero h2{ 
      font-size:1.2rem;
+}
+
+.hero button {
+margin: auto;
+margin-left: 0;
 }
 
     .projects{
