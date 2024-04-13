@@ -52,7 +52,7 @@ margin-bottom:0px;
 }
 
 .hero button{
-    position: absolute;
+    position: relative;
     width: 110px;
     color: black;
     font-weight:500;
@@ -69,7 +69,7 @@ margin-bottom:0px;
     
 }
 .hero button::after {
-position: relative;
+position: absolute;
 content: "";
 width: 102%;
 height: 102%;
