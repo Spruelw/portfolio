@@ -321,6 +321,7 @@ margin-bottom: 40px;
     .about.me p{
         color: white;
         margin-left:0;
+       width: 100%;
       
     }
     .about.me img{
