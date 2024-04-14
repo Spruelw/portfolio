@@ -91,7 +91,7 @@ position:relative;
 
 opacity:0;
 animation: fadeIn 3s ease 3s forwards;
-margin-bottom:80px;
+margin-bottom: 100px;
 }
 
 .portrait{
@@ -118,7 +118,7 @@ margin-bottom:80px;
      
 width: 100%;
 height: 350px;
-margin-bottom:80px;
+margin-bottom:100px;
 
 
 
@@ -155,7 +155,7 @@ margin-top:20px;
 
 .projects{
     margin:auto;
-    margin-bottom: 80px;
+    margin-bottom: 100px;
     width: 820px;
     height: 510px;
     display: grid;
@@ -253,7 +253,7 @@ animation: typewriter 15s ease infinite, border-blink 1s ease infinite;
 
 @media (max-width: 800px){
     .hero {
-        height:45vh;
+        height:85vh;
      width: 100%;
 text-align:center;
 justify-items: center;
