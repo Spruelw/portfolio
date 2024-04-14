@@ -323,15 +323,14 @@ margin-bottom: 40px;
     }
     
     .portrait{
-         width: 95%;
+         width: 100%;
         background-color: red;
         flex-direction: column;
         align-items: center;
-        margin: auto;
     }
     .portrait p{
         margin-left: 0%;
-       width: 80%;
+       width: 75ch;
        
       
     }
