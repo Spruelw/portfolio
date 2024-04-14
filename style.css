@@ -99,11 +99,12 @@ margin-bottom: 100px;
     display: flex;
     gap: 40px;
     margin-top: 80px;
+    
 }
 
 .portrait p{
     width: 45%;
-    color: #e1efef;
+    color: white;
     margin-left: 10%;
     text-align: left;
 }
@@ -323,21 +324,18 @@ margin-bottom: 40px;
     }
     
     .portrait{
-        display: block;
-        width: 85%;
-        text-align: center;
-        margin: auto;
+        flex-direction: column;
+        justify-items: center;
+        justify-content: center;
     }
     .portrait p{
-        color: white;
-        margin-left: 0%;
-       width: 100%;
-       margin: auto;
+        margin-left: 0%
+       width: 80%
+       
       
     }
     .portrait img{
         margin-left: 0;
-        border-radius: 30px;
         
     }
 
