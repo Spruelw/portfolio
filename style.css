@@ -318,13 +318,12 @@ margin-bottom: 40px;
 
     
     .about.me{
-        width: 100%;
      
-        
+        background-color: white;
     }
     
     .portrait{
-       
+        background-color: red;
         flex-direction: column;
         justify-items: center;
         justify-content: center;
