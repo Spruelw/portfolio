@@ -98,7 +98,7 @@ margin-bottom: 100px;
     width: 95%;
     display: flex;
     gap: 40px;
-    margin-top: 80px
+    margin-top: 80px;
 }
 
 .portrait p{
@@ -121,8 +121,8 @@ width: 100%;
 height: 350px;
 margin-bottom:100px;
 
-border-left: 4px solid #90adad;
-border-right: 4px solid #90adad;
+border-left: 2px solid #90adad;
+border-right: 2px solid #90adad;
 
 
 
@@ -324,18 +324,18 @@ margin-bottom: 40px;
     
     .portrait{
         display: block;
-        width: 80%;
+        width: 85%;
         text-align: center;
         margin: auto;
     }
-    .about.me p{
+    .portrait p{
         color: white;
         margin-left: 0%;
        width: 100%;
        margin: auto;
       
     }
-    .about.me img{
+    .portrait img{
         margin-left: 0;
         border-radius: 30px;
         
