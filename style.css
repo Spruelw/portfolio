@@ -330,7 +330,8 @@ margin-bottom: 40px;
     }
     .portrait p{
         margin-left: 0%;
-       width: 75ch;
+       width: 70%;
+       max-width: 75ch;
        
       
     }
