@@ -318,13 +318,13 @@ margin-bottom: 40px;
 
     
     .about.me{
-     
+     height: fit-content;
         background-color: white;
     }
     
     .portrait{
          width: 95%;
-        background-color: red;
+        background-color: blue;
         flex-direction: column;
         align-items: center;
         align-content: center;
