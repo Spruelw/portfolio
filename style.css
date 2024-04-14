@@ -185,7 +185,7 @@ grid-column-start: 3;
 }
 
 .tindog, .movers, .devs {
-padding: 6px;
+padding: 4px;
 position:relative;
 z-index:0; 
 width:fit-content;
@@ -198,10 +198,10 @@ border-radius: 2%;
 z-index: 1;
 width:100%;
 padding-top:5px;
-paddiing-bottom: 10px;
+padding-bottom: 10px;
 right: 0%;
 top: 97%;
-text-align:center;
+text-align: center;
 background-color: #b5d9d9;
 color: #00171e;
 font-weight: 600;
@@ -326,7 +326,7 @@ margin-bottom: 40px;
     }
     .about.me p{
         color: white;
-        margin-left:0;
+        margin-left: 12%;
        width: 100%;
       
     }
