@@ -323,10 +323,10 @@ margin-bottom: 40px;
     }
     
     .portrait{
-        background-color: blue;
+        background-color: orange;
         flex-direction: column;
-        justify-items: center;
-        justify-content: center;
+        align-items: center;
+        align-content: center;
     }
     .portrait p{
         margin-left: 0%;
