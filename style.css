@@ -324,11 +324,11 @@ margin-bottom: 40px;
     
     .portrait{
          width: 95%;
-        background-color: blue;
+        background-color: red;
         flex-direction: column;
         align-items: center;
         align-content: center;
-        justify-content: center;
+       height: fit-content;
     }
     .portrait p{
         margin-left: 0%;
