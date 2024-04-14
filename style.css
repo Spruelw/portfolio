@@ -323,7 +323,8 @@ margin-bottom: 40px;
     }
     
     .portrait{
-        background-color: orange;
+         width: 95%;
+        background-color: red;
         flex-direction: column;
         align-items: center;
         align-content: center;
