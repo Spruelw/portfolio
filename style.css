@@ -256,7 +256,7 @@ animation: typewriter 15s ease infinite, border-blink 1s ease infinite;
 
 @media (max-width: 800px){
     .hero {
-        height:85vh;
+        height:80vh;
      width: 100%;
 text-align:center;
 justify-items: center;
@@ -329,7 +329,7 @@ margin-bottom: 40px;
     }
     .about.me p{
         color: white;
-        margin-left: 12%;
+        margin-left: 10%;
        width: 100%;
       
     }
