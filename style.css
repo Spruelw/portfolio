@@ -323,7 +323,7 @@ margin-bottom: 40px;
     }
     
     .portrait{
-        background-color: red;
+        background-color: blue;
         flex-direction: column;
         justify-items: center;
         justify-content: center;
