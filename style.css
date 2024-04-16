@@ -187,6 +187,7 @@ grid-column-start: 3;
 }
 
 .projects img{
+    width: 100%;
     border-radius: 10px;
     opacity: .8;
 }
@@ -195,7 +196,7 @@ grid-column-start: 3;
 padding: 4px;
 position:relative;
 z-index:0; 
-width:fit-content;
+width:100%;
 background-color: #b5d9d9;
 border-radius: 2%;
 }
