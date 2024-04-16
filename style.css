@@ -173,17 +173,19 @@ background-color: red;
 
 .projects .tindog{
 grid-column-start: 3;
-grid-column-end: 4;
+grid-column-end: 5;
 }
 
 .projects .movers{
 grid-row-start: 2;
+grid-column: span 2;
     
 }
 
 .projects .devs{
 grid-row-start: 2;
 grid-column-start: 3;
+grid-column: span 2;
 }
 
 .projects img{
