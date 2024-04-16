@@ -157,8 +157,11 @@ margin-top:20px;
 .cred ul{
     color: #e1efef;
 }
-
+.work{
+width: 100%;
+}
 .projects{
+background-color: red;
     margin:auto;
     margin-bottom: 100px;
     width: 60%;
