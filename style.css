@@ -162,12 +162,13 @@ width: 100%;
 }
 .projects{
 background-color: red;
+   padding: 20px;
     margin:auto;
     margin-bottom: 100px;
-    width: 60%;
+    width: 70%;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr ;
-    grid-template-rows: 1fr 1fr;
+    grid-template-rows: 200px 200px;
     gap: 40px;
 }
 
@@ -294,6 +295,7 @@ margin-left: 0;
         margin-top: 60px;
        height: fit-content;
        align-items: center;
+       padding: 0px;
     }
 
     .credentials h2{
