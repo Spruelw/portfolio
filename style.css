@@ -161,11 +161,11 @@ margin-top:20px;
 .projects{
     margin:auto;
     margin-bottom: 100px;
-    width: 70%;
+    width: 60%;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr ;
     grid-template-rows: 1fr 1fr;
-    gap: 50px;
+    gap: 40px;
 }
 
 .projects .tindog{
