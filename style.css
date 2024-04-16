@@ -202,6 +202,7 @@ z-index:0;
 width:100%;
 background-color: #b5d9d9;
 border-radius: 2%;
+height: 100%;
 }
 
 .tindog::after, .movers::after, .devs::after{
