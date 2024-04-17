@@ -236,7 +236,7 @@ content:"Devs";
     width: 100vw; 
     text-align: center;
     height: 250px;
-    background-image:      url("squirtle.gif");
+    background-image:      url("./images/squirtle.gif");
     opacity:.3;
 }
 .email-container{width: fit-content;
