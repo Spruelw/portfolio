@@ -272,7 +272,7 @@ text-align:center;
 justify-items: center;
 }
    h1{
-font-size:1.5rem;
+font-size:1.4rem;
 }
 
 
@@ -298,10 +298,11 @@ margin-left: 0;
        height: fit-content;
        align-items: center;
        padding: 0px;
+       gap: 20px;
     }
 
     .tindog, .movers, .devs {
-      height: 150px;
+      height: 170px;
       width:100%;
     margin-bottom: 40px;
 
@@ -330,7 +331,9 @@ object-fit:fill;
 
     
     .portrait{
-         width: 100%;
+         width: 95%;
+         margin: auto;
+         gap: 10px;
         flex-direction: column;
         align-items: center;
     }
