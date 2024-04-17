@@ -235,9 +235,8 @@ content:"Devs";
 .withme{
     width: 100vw; 
     text-align: center;
-    height: 250px;
-    background-image:      url("./images/squirtle.gif");
-    opacity:.3;
+    height: 150px;
+   
 }
 .email-container{width: fit-content;
 margin: auto;
