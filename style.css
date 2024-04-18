@@ -96,6 +96,7 @@ animation: fadeIn 3s ease 3s forwards;
 margin-bottom: 100px;
 background-color: #0a252d;
 border-radius: 20px;
+opacity: 0;
 }
 
 .portrait{
@@ -311,6 +312,7 @@ object-fit:fill;
     }
 
 .about.me h2{
+margin-left: 0;
 text-align: center;
 }
 
