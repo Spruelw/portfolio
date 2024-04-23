@@ -418,9 +418,9 @@ margin: auto;
 margin-left: 0;
 }
 
-   h1{
+  .hero h1{
 
-font-size:.9rem;
+font-size: .8rem;
 }
 
 
