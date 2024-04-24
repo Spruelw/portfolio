@@ -458,8 +458,14 @@ margin-left: 5%;
 }
     
 .work .container{
+flex-direction: column;
     width: 100%;
+height: fit-content;
  
+}
+.project-details{
+width: 100%;
+
 }
 .project-details p, .project-details h4 {
     font-size: .7rem;
@@ -469,8 +475,7 @@ margin-left: 5%;
 }
 .work img{
   
-    width: 60%;
-    height: 100%;
+    width: 100%;
 }
 
 
