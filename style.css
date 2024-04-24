@@ -300,8 +300,9 @@ border-bottom-left-radius: 0px;
 }
 
 .movers .project-details{
-    background-color: rgba(184, 181, 176, 0.762);
-    color: black;
+    background-color: black;
+    color: rgb(231, 225, 225);
+
 }
 
 .project-details p {
@@ -459,7 +460,9 @@ margin-left: 5%;
 .work .container{
 flex-direction: column;
     width: 100%;
+height: 300px;
 height: fit-content;
+margin-bottom: 50px;
  
 }
 .project-details{
@@ -476,7 +479,7 @@ text-align: center;
     font-size: .85rem;
 }
 .work img{
-  
+  height: 65%;
     width: 100%;
 }
 
