@@ -282,7 +282,6 @@ border-bottom-left-radius: 0px;
 
  object-fit: fill;
     border-radius: 5px;
-    opacity: .8;
     
  
 }
@@ -464,7 +463,9 @@ height: fit-content;
  
 }
 .project-details{
-width: 100%;
+width: 90%;
+padding-inline: 0;
+margin:auto;
 
 }
 .project-details p, .project-details h4 {
