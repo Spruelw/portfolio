@@ -464,8 +464,9 @@ height: fit-content;
 }
 .project-details{
 width: 90%;
-padding-inline: 0;
+padding-inline: 5%;
 margin:auto;
+text-align: center;
 
 }
 .project-details p, .project-details h4 {
