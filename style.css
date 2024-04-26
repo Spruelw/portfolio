@@ -367,7 +367,7 @@ animation: typewriter 15s ease infinite, border-blink 1s ease infinite;
 }
 .github-container{
     display: flex;
-    color: white;
+    color: black;
     width: fit-content;
     margin: auto;
     margin-top: 10px;
@@ -377,7 +377,7 @@ animation: typewriter 15s ease infinite, border-blink 1s ease infinite;
  text-align: center;
  justify-content: center;
  align-content: center;
-   background-color: #00171e;
+   background-color: #fbfefebf;
 box-shadow: 1px #90adad;
    border-radius: 15px;
    border: 1px solid #fbfefebf;
@@ -388,7 +388,7 @@ padding-inline: 10px;
 }
 .github-container a{
     text-decoration: none;
-    color: #fbfefebf;
+    color: black;
     text-shadow: #90adad 1px 1px 2px ;
 }
 
