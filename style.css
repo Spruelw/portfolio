@@ -267,7 +267,7 @@ margin-bottom: 40px;
 
 .project-details{
 width: 38%;
-padding-inline: 2%;
+padding-inline: 2%; 
 text-align: right;
 background-color: #071d24;
 
@@ -301,7 +301,8 @@ border-bottom-left-radius: 0px;
 
 .movers .project-details{
     background-color: rgb(133, 134, 135);
-    color: #000a0e;
+    color: white;
+    font-weight: bold;
 
 }
 
@@ -380,6 +381,7 @@ animation: typewriter 15s ease infinite, border-blink 1s ease infinite;
    background-color: #00171e;
 box-shadow: 1px #90adad;
    border-radius: 15px;
+   border: 1px solid white;
    gap: 2px;
 padding: 7px;
 padding-inline: 10px;
@@ -472,8 +474,8 @@ gap:5px;
 }
 .project-details{
 width: 90%;
-margin-top: -2px;
 line-height: .9rem;
+padding-top: 2%;
 padding-inline: 5%;
 border-top-right-radius:0 ;
 border-bottom-left-radius: 5px;
