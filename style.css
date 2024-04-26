@@ -302,7 +302,6 @@ border-bottom-left-radius: 0px;
 .movers .project-details{
     background-color: rgb(133, 134, 135);
     color: white;
-    font-weight: bold;
 
 }
 
@@ -381,7 +380,7 @@ animation: typewriter 15s ease infinite, border-blink 1s ease infinite;
    background-color: #00171e;
 box-shadow: 1px #90adad;
    border-radius: 15px;
-   border: 1px solid white;
+   border: 1px solid #fbfefebf;
    gap: 2px;
 padding: 7px;
 padding-inline: 10px;
@@ -389,7 +388,7 @@ padding-inline: 10px;
 }
 .github-container a{
     text-decoration: none;
-    color: #90adad;
+    color: #fbfefebf;
     text-shadow: #90adad 1px 1px 2px ;
 }
 
