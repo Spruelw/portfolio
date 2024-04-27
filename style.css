@@ -564,5 +564,5 @@ to {border-right: transparent;}
 }
 
 .hide , .show{
-    transition: all 2s linear;
+    transition: all 2s ease;
 }
