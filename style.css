@@ -555,7 +555,7 @@ to {border-right: transparent;}
 
 .hide{
     opacity: 0;
-    transform: scale(.9);
+    transform: scale(.95);
 }
 
 .show{
