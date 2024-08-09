@@ -37,14 +37,11 @@ h2:not(.hero h2) {
   border: 0.5px solid #fbfefe30;
 }
 
-.nav-bar div {
-  width: 33%;
-}
 .nav-bar h3 {
   color: white;
   font-size: 0.8rem;
   margin: 0;
-  width: 33%;
+  margin-left: 5%;
   text-align: center;
 }
 
@@ -218,22 +215,18 @@ button:hover,
   color: #fbfefebf;
   background-color: #0a252d;
   text-align: center;
-
+  transition: all 1s ease;
   gap: 40px;
-
-  
 }
 
-.glow{
-    border: 2px solid #72a8ba;
+.glow {
+  border: 1px solid #b5d9d98e;
 }
-
 
 .skills-items:hover {
   border: 1.5px solid #90adad;
   transition: all 0.7s linear;
 }
-
 
 .experience .item img {
   width: 40px;
@@ -312,13 +305,13 @@ button:hover,
 }
 
 .project-details {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
   width: 38%;
   align-items: center;
   justify-content: center;
-padding-inline: 10px;
-text-align: center;
+  padding-inline: 10px;
+  text-align: center;
   background-color: #071d24;
   color: rgb(210, 228, 231);
   border-radius: 5px;
@@ -351,9 +344,8 @@ text-align: center;
 }
 
 .willdolist .project-details {
-    background-color: rgb(62, 59, 57);
-    color: white;
-  
+  background-color: rgb(62, 59, 57);
+  color: white;
 }
 
 .project-details p {
@@ -372,17 +364,17 @@ text-align: center;
   border: 1px solid rgb(176, 164, 164);
 }
 
-.willdolist .visit-button{
-    background-color: white;
-    color: black;
+.willdolist .visit-button {
+  background-color: white;
+  color: black;
 }
-.forecast-fortune .visit-button{
-    background-color: rgba(255, 255, 255, 0.584);
-    color: #451661f1;
+.forecast-fortune .visit-button {
+  background-color: rgba(255, 255, 255, 0.584);
+  color: #451661f1;
 }
-.anime-rex .visit-button{
-    background-color: rgba(131, 62, 30, 0.584);
-    color: white;
+.anime-rex .visit-button {
+  background-color: rgba(131, 62, 30, 0.584);
+  color: white;
 }
 
 .withme {
@@ -416,21 +408,18 @@ text-align: center;
 .email-container a {
   font-size: 1.1rem;
   font-weight: 400;
-  color: #ffffffd7
+  color: #ffffffd7;
 }
 @media (min-width: 550px) {
-  .nav-bar h3{
-        font-size: .9rem;
-    }  
-    .github-container a {
-       
-        font-size: 0.8rem;
-      }
+  .nav-bar h3 {
+    font-size: 0.9rem;
+  }
+  .github-container a {
+    font-size: 0.8rem;
+  }
 }
 
 @media (max-width: 650px) {
-
-    
   .hero h2 {
     font-size: 1.2rem;
   }
@@ -580,4 +569,3 @@ text-align: center;
 .show {
   transition: all 2s ease;
 }
-
