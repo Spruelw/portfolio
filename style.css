@@ -419,6 +419,13 @@ button:hover,
   }
 }
 
+@media (min-width: 800px) {
+    .nav-bar {
+      width: 60%;
+    }
+    
+  }
+
 @media (max-width: 650px) {
   .hero h2 {
     font-size: 1.2rem;
