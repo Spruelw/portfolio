@@ -41,7 +41,7 @@ h2:not(.hero h2) {
   color: white;
   font-size: 0.8rem;
   margin: 0;
-  margin-left: 5%;
+  margin-left: 3%;
   text-align: center;
 }
 
@@ -49,22 +49,13 @@ h2:not(.hero h2) {
   font-weight: 200;
 }
 
-.nav-bar .links {
-  width: 33%;
-  display: flex;
-  align-items: center;
-
-  color: white;
-  font-size: 0.7rem;
-}
 .github-container {
   display: flex;
   min-width: fit-content;
-  margin: auto;
+  margin-right: 2%;
   z-index: 1;
   display: flex;
   text-align: center;
-  justify-content: center;
   align-content: center;
   border-radius: 15px;
   gap: 2px;
@@ -420,11 +411,10 @@ button:hover,
 }
 
 @media (min-width: 800px) {
-    .nav-bar {
-      width: 60%;
-    }
-    
+  .nav-bar {
+    width: 60%;
   }
+}
 
 @media (max-width: 650px) {
   .hero h2 {
