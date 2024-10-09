@@ -317,6 +317,10 @@ button:hover,
   border-radius: 5px;
 }
 
+.ball-drop .project-details{
+  background-color: #614e39;
+}
+
 .wallofwill .project-details {
   background-color: rgba(62, 39, 42, 0.844);
   color: (231, 225, 225);
@@ -353,6 +357,11 @@ button:hover,
   border-radius: 5px;
   font-weight: 600;
   border: 1px solid rgb(176, 164, 164);
+}
+
+.ball-drop .visit-button {
+  background-color: #0f7173;
+
 }
 
 .willdolist .visit-button {
